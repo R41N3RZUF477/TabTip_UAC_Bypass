@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TabTip_UAC_Bypass.vcxproj" Id="066d6a4c-7775-44e9-89a3-f1abea3f82c7" />
+</Solution>
